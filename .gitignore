@@ -5,3 +5,4 @@ node_modules
 keypair.json
 .venv
 .env
+keypair.json
